@@ -2,22 +2,46 @@
 
 ## 梯子列表
 
-自适应订阅地址(v2ray):
-https://freeladder.l2e.top/2ad0b7f6-b582-4cda-8a5a-d6aace83aa81
-https://freeladder.l2e.top/2ad0b7f6-b582-4cda-8a5a-d6aace83aa81?sub
+自适应订阅地址(v2ray)
 
-clash订阅地址:
-https://freeladder.l2e.top/2ad0b7f6-b582-4cda-8a5a-d6aace83aa81?clash
+https://freeladder.l2e.top/b4d7f177-f92a-4f13-9a87-ad9276e8d2a7
+https://freeladder.l2e.top/b4d7f177-f92a-4f13-9a87-ad9276e8d2a7?sub
 
-Base64订阅地址:
-https://freeladder.l2e.top/2ad0b7f6-b582-4cda-8a5a-d6aace83aa81?b64
-https://freeladder.l2e.top/2ad0b7f6-b582-4cda-8a5a-d6aace83aa81?base64
+Base64订阅地址
 
-singbox订阅地址:
-https://freeladder.l2e.top/2ad0b7f6-b582-4cda-8a5a-d6aace83aa81?sb
-https://freeladder.l2e.top/2ad0b7f6-b582-4cda-8a5a-d6aace83aa81?singbox
+https://freeladder.l2e.top/b4d7f177-f92a-4f13-9a87-ad9276e8d2a7?b64
+https://freeladder.l2e.top/b4d7f177-f92a-4f13-9a87-ad9276e8d2a7?base64
+
+clash订阅地址
+
+https://freeladder.l2e.top/b4d7f177-f92a-4f13-9a87-ad9276e8d2a7?clash
+
+singbox订阅地址
+
+https://freeladder.l2e.top/b4d7f177-f92a-4f13-9a87-ad9276e8d2a7?sb
+https://freeladder.l2e.top/b4d7f177-f92a-4f13-9a87-ad9276e8d2a7?singbox
 
 ## 重要说明
 
-本仓库不会保证维护周期，随时可能删除任何相关内容，使用工具前须务必了解相关工具的使用规则
+为了防止被滥用，每7天失效一次，失效后如需继续学习 Web3 技术可重新开启。
+
+本仓库不会保证维护周期，随时可能删除任何相关内容，使用工具前须务必了解工具的使用规则。
+
+## 法律免费声明
+
+本工具项目（以下简称项目）仅供教育、研究和安全测试为目的，L2E.Top及L2E.Top的所有者（以下简称作者）不提供任何服务支持，也没有任何担保。
+
+作者不认可、不支持亦不鼓励任何形式的非法使用。如果发现本项目被用于任何非法或不道德的活动。作者将保留任何法律权利并在任何时候不经通知终止本项目的使用。
+
+作者对任何人或组织利用本项目从事的任何非法活动以及所产生的任何后果不承担责任，均由使用者自行承担。作者不对使用本项目可能引起的任何直接或间接损害负责。
+
+使用者必须遵守所在地区所适用的法律和规定，有责任确保其行为符合所在地区的法律框架、规章制度及其他相关规定。
+
+使用者应在使用本项目的 24 小时内停止使用本项目并删除任何与本项目有关的文本、代码或其它资料数据。
+
+使用者使用本项目，即表示理解并同意本免责声明的所有条款。如使用者不同意这些条款，应立即停止使用本项目。
+
+作者保留随时更新本免责声明的权利，且不另行通知。最新版本的免责声明将发布在本页面上。
+
+################################################################
 
